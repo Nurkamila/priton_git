@@ -1,4 +1,5 @@
 django
+<<<<<<< HEAD
 djangorestframework
 python-decouple
 psycopg2-binary
@@ -6,3 +7,6 @@ psycopg2-binary
 python-slugify
 Pillow
 django-filter
+=======
+django-decouple
+>>>>>>> bc56efd (files ready to push)
