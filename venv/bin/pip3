@@ -1,4 +1,6 @@
-#!/Users/aisulutoktogulova/Desktop/priton_git/venv/bin/python3
+#!/bin/sh
+'''exec' "/home/mithat/Рабочий стол/allfiles/projects/hakaton_podgotovka/priton_git/venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
