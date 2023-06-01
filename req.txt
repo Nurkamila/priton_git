@@ -2,7 +2,6 @@ django
 djangorestframework
 python-decouple
 psycopg2-binary
-
 python-slugify
 Pillow
 django-filter
